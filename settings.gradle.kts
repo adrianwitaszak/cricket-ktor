@@ -1,0 +1,1 @@
+rootProject.name = "cricket-ktor-1.6.8"
